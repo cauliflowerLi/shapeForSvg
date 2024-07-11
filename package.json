@@ -1,7 +1,6 @@
 {
   "name": "ShapeForSvg",
   "version": "1.0.0",
-  "private": true,
   "main": "./dist/ShapeForSvg.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",

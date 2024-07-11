@@ -1,24 +1,58 @@
-# svgbox
+# ShapeForSvg
+大屏中用来作为模块背景的底框。
 
-## Project setup
+## 安装
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+npm install ShapeForSvg
 ```
 
-### Compiles and minifies for production
+### 使用
 ```
-npm run build
+import ShapeForSve from 'ShapeForSve';
+Vue.component("ShapeForSve",ShapeForSve);
+<ShapeForSve>
+	<template #header>标题</template>
+	<div class="wrapper">我是内容</div>
+</ShapeForSve>
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 属性配置项
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### width:Number
+组件显示宽度，默认200
+
+#### height:Number
+组件显示高度，默认200
+
+#### startOpacity:Number
+背景渐变透明度：开始位置，0-1范围内，默认0.59
+
+#### endOpacity:Number
+背景渐变透明度：结束位置，0-1范围内，默认0.59
+
+#### titleWidth:Number
+标题宽度，默认218
+
+#### titleHeight:Number
+标题高度，默认40
+
+#### dif:Number
+标题背景上下线插值的一半，默认18
+
+#### startColor:String
+背景渐变：开始颜色
+
+#### endColor:String
+背景渐变：结束颜色
+
+#### titleFill:String
+标题背景颜色
+
+#### hornStrokeColor:String
+四角折线颜色
+
+#### titleStrokeColor:String
+标题上蓝色横线：颜色
+
+
+

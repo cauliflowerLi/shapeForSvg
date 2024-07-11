@@ -2,10 +2,6 @@
 export default {
   name: 'ShapeForSve',
   props: {
-    loading: {
-      type: Boolean,
-      default: false,
-    },
     /**
      * 宽度
      */
