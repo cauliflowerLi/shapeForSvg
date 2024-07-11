@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
@@ -17,12 +16,18 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+@media screen and (width: 1920px){
+  html,body{
+    overflow-x: hidden;
+  }
+}
+@media screen and (height: 1080px){
+  html,body{
+    overflow-y:hidden;
+  }
+}
+html,body{
+  margin:0;
+  background: #000000;
 }
 </style>
