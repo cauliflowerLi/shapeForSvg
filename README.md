@@ -54,5 +54,7 @@ Vue.component("ShapeForSve",ShapeForSve);
 #### titleStrokeColor:String
 标题上蓝色横线：颜色
 
-
+### 组件效果
+![Image](http://url/a.png)
+![Image](./assets/a.png)
 
