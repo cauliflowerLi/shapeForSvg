@@ -9,6 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "author": "zhoun4",
+  "keywords": ["screen","公权力","大屏","shape","svg","box"],
   "dependencies": {},
   "devDependencies": {}
 }
