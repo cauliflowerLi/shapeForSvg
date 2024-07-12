@@ -69,10 +69,5 @@ Vue.component("ShapeForSve",ShapeForSve);
 
 ### 组件效果
 ---
-![](./src/assets/a.png)
-![](a.png)
-![Image](a.png)
-![avatar](src/assets/a.png)
-![Image](src/assets/a.png)
-![Image](./src/assets/a.png)
+![Image](https://github.com/cauliflowerLi/shapeForSvg/blob/master/src/assets/img.png?raw=true)
 
