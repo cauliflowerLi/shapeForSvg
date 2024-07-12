@@ -8,12 +8,12 @@ npm install ShapeForSvg
 
 ### 使用
 ```
-import ShapeForSve from 'ShapeForSve';
-Vue.component("ShapeForSve",ShapeForSve);
-<ShapeForSve>
+import ShapeForSvg from 'ShapeForSvg';
+Vue.component("ShapeForSvg",ShapeForSvg);
+<ShapeForSvg>
 	<template #header>标题</template>
 	<div class="wrapper">我是内容</div>
-</ShapeForSve>
+</ShapeForSvg>
 ```
 
 ### 属性配置项
