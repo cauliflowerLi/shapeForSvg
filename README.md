@@ -55,6 +55,6 @@ Vue.component("ShapeForSve",ShapeForSve);
 标题上蓝色横线：颜色
 
 ### 组件效果
-![Image](http://url/a.png)
+![Image](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
 ![Image](./assets/a.png)
 
