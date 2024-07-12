@@ -56,5 +56,5 @@ Vue.component("ShapeForSve",ShapeForSve);
 标题上蓝色横线：颜色
 
 ### 组件效果
-![Image](https://github.com/cauliflowerLi/shapeForSvg/blob/master/src/assets/img.png?raw=true)
+![Image](https://raw.githubusercontent.com/cauliflowerLi/shapeForSvg/master/src/assets/img.png)
 
