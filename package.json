@@ -1,6 +1,6 @@
 {
   "name": "ShapeForSvg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dist/ShapeForSvg.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -8,7 +8,7 @@
     "package": "vue-cli-service build --target lib --name ShapeForSvg --entry ./src/components/ShapeForSvg.vue",
     "lint": "vue-cli-service lint"
   },
-  "author":"zhoun4",
+  "author": "zhoun4",
   "dependencies": {},
   "devDependencies": {}
 }
