@@ -15,6 +15,11 @@ Vue.component("ShapeForSvg",ShapeForSvg);
 	<div class="wrapper">我是内容</div>
 </ShapeForSvg>
 ```
+### API说明
+|选项|类型|说明|
+|---|---|---|
+|header|slot|自定义标题|
+|default|slot|自定义内容|
 
 ### 属性配置项
 
